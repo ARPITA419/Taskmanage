@@ -14,4 +14,13 @@ After getting selected for [TKS](https://tks.world/) I was offered the opportuni
 ![theimage](https://github.com/ARPITA419/Taskmanage/assets/137694513/da64c110-d017-49cc-a20c-9eed2154ac0b)
 **The colors in the top right change color accordingly when in use.
 # What do they look like with their preset colors 🎨
-![THEPIC](https://github.com/ARPITA419/Taskmanage/assets/137694513/802bfd70-6c6f-4a57-97a2-827e18f75498)
+![2023-06-27 (15)](https://github.com/ARPITA419/Taskmanage/assets/137694513/9a3b3592-3366-4cf6-8aee-c1d42e270d90)
+![2023-06-27 (20)](https://github.com/ARPITA419/Taskmanage/assets/137694513/09817c31-6256-444e-b958-f405cced6e50)
+![2023-06-27 (23)](https://github.com/ARPITA419/Taskmanage/assets/137694513/fbad02cc-a24e-4f81-b607-bf5dacf27b45)
+![2023-06-27 (24)](https://github.com/ARPITA419/Taskmanage/assets/137694513/ec3a8455-9d0c-4bae-8310-e30d0d65788c)
+![2023-06-27 (19)](https://github.com/ARPITA419/Taskmanage/assets/137694513/d031d143-adb5-4990-8732-7aba46609b98)
+![2023-06-27 (18)](https://github.com/ARPITA419/Taskmanage/assets/137694513/7b29eebc-5843-4369-8aa9-86d95823925a)
+![2023-06-27 (17)](https://github.com/ARPITA419/Taskmanage/assets/137694513/44cdb6be-5fff-44cf-ac3c-04798fc8fabf)
+![2023-06-27 (16)](https://github.com/ARPITA419/Taskmanage/assets/137694513/bab9f3d3-80a0-41e6-93b5-86946a338d81)
+![2023-06-27 (21)](https://github.com/ARPITA419/Taskmanage/assets/137694513/898796df-2308-47a3-aa12-41abf8100fdd)
+![2023-06-27 (22)](https://github.com/ARPITA419/Taskmanage/assets/137694513/638f03e2-5bce-4e0f-9fbe-68cc83f60d17)
